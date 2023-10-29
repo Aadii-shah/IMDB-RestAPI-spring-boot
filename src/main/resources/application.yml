@@ -1,0 +1,6 @@
+tmdb:
+  api:
+    key: bb42d9470d46d71c7d2f5d0cf4cb1af1
+    language: en-US
+    url: https://api.themoviedb.org/3/movie/
+
